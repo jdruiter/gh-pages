@@ -1,5 +1,7 @@
 # Joris de Ruiter 
 
-Python/Django web programmer
+Python/Django web developer
+
+Working at Fenac (NL)
 
 joris@jdruiter.nl
